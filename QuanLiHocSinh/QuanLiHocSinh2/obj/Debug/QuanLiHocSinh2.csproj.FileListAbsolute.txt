@@ -1,0 +1,9 @@
+D:\Winform\QuanLiHocSinh2\QuanLiHocSinh2\QuanLiHocSinh2\bin\Debug\QuanLiHocSinh2.exe.config
+D:\Winform\QuanLiHocSinh2\QuanLiHocSinh2\QuanLiHocSinh2\bin\Debug\QuanLiHocSinh2.exe
+D:\Winform\QuanLiHocSinh2\QuanLiHocSinh2\QuanLiHocSinh2\bin\Debug\QuanLiHocSinh2.pdb
+D:\Winform\QuanLiHocSinh2\QuanLiHocSinh2\QuanLiHocSinh2\obj\Debug\QuanLiHocSinh2.csprojResolveAssemblyReference.cache
+D:\Winform\QuanLiHocSinh2\QuanLiHocSinh2\QuanLiHocSinh2\obj\Debug\QuanLiHocSinh2.fmQuanLiHocSinh.resources
+D:\Winform\QuanLiHocSinh2\QuanLiHocSinh2\QuanLiHocSinh2\obj\Debug\QuanLiHocSinh2.Properties.Resources.resources
+D:\Winform\QuanLiHocSinh2\QuanLiHocSinh2\QuanLiHocSinh2\obj\Debug\QuanLiHocSinh2.csproj.GenerateResource.Cache
+D:\Winform\QuanLiHocSinh2\QuanLiHocSinh2\QuanLiHocSinh2\obj\Debug\QuanLiHocSinh2.exe
+D:\Winform\QuanLiHocSinh2\QuanLiHocSinh2\QuanLiHocSinh2\obj\Debug\QuanLiHocSinh2.pdb
